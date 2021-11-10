@@ -21,5 +21,9 @@
     "webpack": "^5.63.0",
     "webpack-cli": "^4.9.1",
     "webpack-dev-server": "^4.4.0"
+  },
+  "dependencies": {
+    "@popperjs/core": "^2.10.2",
+    "bootstrap4": "0.0.1-security"
   }
 }
